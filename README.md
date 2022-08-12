@@ -21,3 +21,5 @@
 * CountDownTimer
 * SoundPool
 
+## Display
+<img src="https://user-images.githubusercontent.com/72978589/184332509-76ea3c1f-d8c7-4458-8f91-d74c4bfe7170.gif" width="30%" height="40%">    
